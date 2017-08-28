@@ -10,7 +10,7 @@ npm install -S gulp-ahex
 `gulpfile.js`
 ```js
 const gulp = require('gulp');
-const ahex = require('ahex.js');
+const ahex = require('gulp-ahex');
 
 gulp.task('css', function(){
   return gulp.src('./src/style.css')
