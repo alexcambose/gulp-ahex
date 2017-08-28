@@ -1,0 +1,28 @@
+{
+  "name": "gulp-ahex",
+  "version": "1.0.0",
+  "description": "Alpha hexadecimal gulp plugin",
+  "main": "index.js",
+  "repository": "alexcambose/gulp-ahex",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "css",
+    "hex",
+    "alpha",
+    "converter",
+    "rgb",
+    "rgba",
+    "hexadecimal",
+    "opacity"
+  ],
+  "author": "Alexandru Cambose",
+  "license": "ISC",
+  "dependencies": {
+    "ahex": "^1.0.3",
+    "gulp-util": "^3.0.8",
+    "through2": "^2.0.3"
+  }
+}
